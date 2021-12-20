@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="title_activity_launch">Launch</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="movies_retrofit">Go to movies retrofit</string>
+    <string name="json_example">Go to json example</string>
+    <string name="title_activity_json">JsonActivity</string>
+</resources>
